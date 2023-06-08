@@ -1,0 +1,28 @@
+-phân biệt git và github.
+-getee 
+-git commit -m "X: them nhan vien" thêm một chức năng mới
+feat thêm một chức năng mới
+fix sửa bug
+perf tối ưu hiệu năng
+style thay đôi liên quan đến giao diện phần nào đó
+refactor -re-factor code chia nhỏ code ra để tái sử dụng
+revert commit revert
+test viết các unit test, không liên quan đến code
+docs thay đổi liên quan đến tài liệu và chú ý liên quan đến sản phầm
+chore sửa, cập nhật dependencies/modifying
+workflow tải tiến luồng làm việc nào đó
+ci CICD
+types type definition
+wip sửa môi trường dev
+pull request
+fork chuyển code về git của mình rồi mình sửa sau đó pull request
+ "issue" thường được sử dụng để chỉ các vấn đề, lỗi, yêu cầu tính năng hoặc 
+ bất kỳ vấn đề nào mà người dùng có thể gửi và báo cáo cho chủ sở hữu dự án. 
+ Một "issue" thường đi kèm với tiêu đề, mô tả và các bình luận liên quan.
+
+quy chuẩn đánh version: Sematic versioning
+1.2.1 Major.minor.patch
+
+major thay đổi phiên bản chính
+minor thêm hoặc thay đổi tính năng
+patch số lỗi sửa được 
